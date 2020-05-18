@@ -1,24 +1,7 @@
-# README
+# Grammable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is an app that was deisgned with the functionality simillary to Instagram. A user must be registered to post and comment on a picture. Posts displayed in the oreder that they are created. The page length is determined by the number of posts. The app was made on Ruby on rails. The code uses gems such as devise, carrierwave, and figaro.
 
-Things you may want to cover:
+Visit the site [Grammable](https://github.com/Raquele-Crotti/nomster)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![pic of grammable](https://philipcox.netlify.app/grammable.png)
